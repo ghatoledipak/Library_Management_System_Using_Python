@@ -7,3 +7,7 @@ Project Prerequisites <br />
 
 Download DB Broswer for SQLite from:<br />
 https://sqlitebrowser.org/dl/
+
+
+<br />
+for execute app run main.py file
